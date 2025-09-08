@@ -3,8 +3,8 @@
 # the socials will be displayed in the order they are defined here
 
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
-organization: University of Washington # your organization as appears in the subdomain
-username:  rdcolwell # your username
+  # organization: University of Washington # your organization as appears in the subdomain
+  # username:  rdcolwell # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
@@ -17,7 +17,7 @@ github_username: rdcolwell
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+# inspirehep_id: 1010907 # Inspire HEP author ID
 instagram_id: richarddcolwell
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
