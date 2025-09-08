@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Richard Colwell",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
+    "email": "colweric@uw.edu",
+    "phone": "(715) 560-1712",
+    "url": "https://rdcolwell.github.io",
+    # "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    # "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
