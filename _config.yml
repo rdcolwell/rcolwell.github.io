@@ -6,8 +6,8 @@ title: Richard's Website! # the website title (if blank, full name will be used 
 first_name: Richard
 middle_name: D.
 last_name: Colwell
-contact_note: >
-  You can reach me at richarddanielcolwell@gmail.com!
+# contact_note: >
+  # You can reach me at richarddanielcolwell@gmail.com!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics like me! Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
