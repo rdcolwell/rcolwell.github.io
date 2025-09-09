@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -497,20 +490,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-organization',
-        title: 'Organization',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
-        id: 'social-username',
-        title: 'Username',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -523,13 +502,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/rdcolwell", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
         id: 'social-instagram',
@@ -553,25 +525,11 @@ ninja.data = [{
           window.open("https://orcid.org/0009-0004-0006-1812", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=hTGVpOUAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
