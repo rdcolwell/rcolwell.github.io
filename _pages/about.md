@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <strong>NSF Graduate Research Fellow</strong> at <a href='https://mse.washington.edu/'>UW MSE</a> | <strong>Previously:</strong> <a href='https://sustainability.aboutamazon.com/'>Amazon Worldwide Sustainability</a> / <a href='hhttps://www.tenderfood.com/'>Tender Food</a> / <a href='https://dmse.mit.edu/'>MIT MSE</a>.
 
 profile:
   align: right
