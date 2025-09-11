@@ -35,14 +35,26 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "QuestBridge",
+      "position": "Alumni Mentor",
+      "url": "https://questbridge.com",
+      "startDate": "2024-01",
+      "summary": "Providing mentorship about education and career paths to undergraduate students in Questbridge from first-generation, low-income backgrounds."
+    },
+    {
+      "organization": "STEM Pals",
+      "location": "Seattle, WA",
+      "url": "https://stempals.wordpress.com",
+      "startDate": "2024-04",
+      "summary": "Volunteer instructor and curriculum developer in a program aiming to encourage, inspire, and empower K-12 students in the greater Seattle area to pursue STEM-related activities and education post-graduation.",
+      "highlights": ["Member of the curriculum development committee."]
+    },
+    {
+      "organization": "Terrascope",
+      "position": "Alumni Mentor",
+      "url": "https://terrascope.mit.edu/community/mentors/",
+      "startDate": "2021-09",
+      "summary": "Mentor to MIT undergraduates in the Terrascope community, focused on addressing real-world problems facing the planet."
     }
   ],
   "education": [
@@ -103,24 +115,17 @@
   "publications": [
     {
       "name": "What’s lost, what’s left, what’s next: Lessons learned from the lived experiences of teachers during the pandemic",
-      "publisher": "Berkeley Rev. Educ.",
+      "publisher": "Berkeley Review of Education",
       "releaseDate": "2022-09",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "url": "https://escholarship.org/uc/item/3p52f3tp",
+      "summary": "During the 2020 school closures, interviews with 40 teachers across school types and grade levels revealed concerns about student motivation, professional burnout, and widening inequities. As climate change increases the likelihood of future disruptions, schools must learn from COVID-19 to build resilience. We recommend five priorities: center equity, strengthen relationships, support student motivation, prevent staff burnout, and plan for uncertainty."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Remote language revitalisation efforts during COVID-19",
+      "publisher": "Technology, Pedagogy, and Education",
+      "releaseDate": "2022-06",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/1475939X.2022.2077819",
+      "summary": "This study examines how remote instruction supported an Indigenous language school during COVID-19. Using a digital decolonization framework and design-based research, the authors studied a classroom of 16 early-grade students. Video conferencing and flipped classrooms helped foster a community of speakers but limited language learning efficacy. Findings suggest preliminary design principles for equity-centered, context-specific remote instruction."
     }
   ],
   "skills": [
@@ -191,38 +196,32 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Materials Science",
+      "icon": "fa-solid fa-flask",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Sustainable materials",
+        "Polymer chemistry",
+        "Self-assembly"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Personal Interests",
+      "icon": "fa-solid fa-leaf",
+      "keywords": [
+        "Gardening",
+        "Home Fermentation",
+        "Food Science",
+        "Language Learning"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Cocoa Chinese",
+      "summary": "Cocoa Chinese is a GitHub repository for a simple GUI to learn Chinese characters with color-coded flash cards to indicate tones. The system uses spaced repetition to ensure weaker characters get reinforced more frequently.",
+      "highlights": ["Language Learning", "Mandarin Chinese","Python"],
+      "startDate": "2022-07-10",
+      "url": "https://github.com/rdcolwell/cocoachinese"
     }
   ]
 }
